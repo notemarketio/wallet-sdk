@@ -38,7 +38,7 @@ export class KeystoneKeyring extends EventEmitter {
 	page = 0
 	perPage = 5
 
-	origin = 'UniSat Wallet'
+	origin = 'NOTE Market Wallet'
 
 	constructor(opts?: DeserializeOption) {
 		super()

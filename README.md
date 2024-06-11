@@ -1,4 +1,4 @@
-# UniSat Wallet SDK
+# NOTE Market Wallet SDK
 
 ## Getting started
 
@@ -19,6 +19,6 @@ yarn test
 
 ```shell
 
-yarn add @unisat/wallet-sdk
+yarn add @notemarket/wallet-sdk
 
 ```

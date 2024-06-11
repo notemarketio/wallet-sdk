@@ -1,19 +1,19 @@
 {
-  "name": "@unisat/wallet-sdk",
-  "version": "1.6.2",
-  "description": "UniSat Wallet SDK",
+  "name": "@notemarket/wallet-sdk",
+  "version": "1.0.0",
+  "description": "NOTE Market Wallet SDK",
   "keywords": [
     "bitcoin",
     "keyring",
-    "unisat"
+    "notemarket"
   ],
-  "homepage": "https://github.com/unisat-wallet/wallet-sdk#readme",
+  "homepage": "https://github.com/notemarketio/wallet-sdk#readme",
   "bugs": {
-    "url": "https://github.com/unisat-wallet/wallet-sdk/issues"
+    "url": "https://github.com/notemarketio/wallet-sdk/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/unisat-wallet/wallet-sdk.git"
+    "url": "https://github.com/notemarketio/wallet-sdk.git"
   },
   "author": "cybersinsloth",
   "license": "ISC",
@@ -38,7 +38,7 @@
     "big-integer": "^1.6.52",
     "bignumber.js": "^9.1.2",
     "bip39": "^3.1.0",
-    "bitcoinjs-lib": "^6.1.0",
+    "bitcoinjs-lib": "^6.1.6",
     "bitcore-lib": "^10.0.0",
     "ecpair": "^2.1.0",
     "hdkey": "^2.1.0",
