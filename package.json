@@ -1,6 +1,6 @@
 {
   "name": "@notemarket/wallet-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NOTE Market Wallet SDK",
   "keywords": [
     "bitcoin",
@@ -33,7 +33,7 @@
     "prepublishOnly": "npm run build"
   },
   "dependencies": {
-    "@bitcoinerlab/secp256k1": "^1.0.5",
+    "@bitcoinerlab/secp256k1": "^1.1.1",
     "@keystonehq/keystone-sdk": "^0.3.0",
     "big-integer": "^1.6.52",
     "bignumber.js": "^9.1.2",
@@ -41,8 +41,7 @@
     "bitcoinjs-lib": "^6.1.6",
     "bitcore-lib": "^10.0.0",
     "ecpair": "^2.1.0",
-    "hdkey": "^2.1.0",
-    "tiny-secp256k1": "=2.2.1"
+    "hdkey": "^2.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.16.7",
